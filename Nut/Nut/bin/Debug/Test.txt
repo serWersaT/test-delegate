@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Nut
+{
+    class Test
+    {
+        public void tester()
+        {
+            string test = "Все получилось";
+            MessageBox.Show(" Все работает!! ");
+        }
+    }
+}

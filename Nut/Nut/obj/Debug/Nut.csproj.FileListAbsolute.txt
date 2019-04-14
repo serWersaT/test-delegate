@@ -1,0 +1,9 @@
+C:\C# проекты\new гайка\Nut\Nut\obj\Debug\Nut.csprojResolveAssemblyReference.cache
+C:\C# проекты\new гайка\Nut\Nut\obj\Debug\Nut.Form1.resources
+C:\C# проекты\new гайка\Nut\Nut\obj\Debug\Nut.Properties.Resources.resources
+C:\C# проекты\new гайка\Nut\Nut\obj\Debug\Nut.csproj.GenerateResource.Cache
+C:\C# проекты\new гайка\Nut\Nut\obj\Debug\Nut.csproj.CoreCompileInputs.cache
+C:\C# проекты\new гайка\Nut\Nut\bin\Debug\Nut.exe
+C:\C# проекты\new гайка\Nut\Nut\bin\Debug\Nut.pdb
+C:\C# проекты\new гайка\Nut\Nut\obj\Debug\Nut.exe
+C:\C# проекты\new гайка\Nut\Nut\obj\Debug\Nut.pdb
